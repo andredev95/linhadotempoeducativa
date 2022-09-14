@@ -38,7 +38,8 @@ Utilitários
 
 ## 💻 Projeto
 
-LINHA DO TEMPO - EXPERIÊNCIAS EDUCATIVAS AO AR LIVRE NA EUROPA E EM PAÍSES DA AMÉRICA LATINA é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Objetivos do estudo, linha do tempo, Depoimentos, Contato e Footer
+LINHA DO TEMPO - EXPERIÊNCIAS EDUCATIVAS AO AR LIVRE NA EUROPA E EM PAÍSES DA AMÉRICA LATINA é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de dispositivos.
+O objetivo principal é desenvolver uma plataforma web para expor toda informação levantada durante a pesquisa, usando o formato linha do tempo.
 
 ## 🔖 Layout
 
